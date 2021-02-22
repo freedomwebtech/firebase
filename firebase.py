@@ -1,5 +1,5 @@
 import pyrebase
-from distance3 import distance
+from distance import distance
 
 
 config = {
